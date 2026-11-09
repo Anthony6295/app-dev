@@ -1,9 +1,13 @@
 # app-dev
-My Favorite series 
-Avatar
-I enjoy Avatar because of its exciting story and interesting characters.
+# My Favorite Series
 
-Reasons I Like It
-1. Great plot
-2. Memorable characters
-3. Amazing soundtrack
+## Avatar
+
+I enjoy **Avatar** because of its exciting story and interesting characters.
+
+### Reasons I Like It
+- Great plot
+- Memorable characters
+- Amazing soundtrack
+
+[Learn More](https://www.netflix.com/)
